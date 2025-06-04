@@ -1,9 +1,19 @@
-# App de gestão de consultas de consultório veterinário
+# 🐾 App de Gestão de Consultas de Consultório Veterinário
 
-### Alunos:
+Este aplicativo tem como objetivo auxiliar no gerenciamento de consultas em um consultório veterinário, permitindo o cadastro de pacientes, agendamento de consultas e organização das informações de forma eficiente.
 
-· Allan Clementino - a61467;<br>
-· Eduardo Cavazin - m319727;<br>
-· João Santos - a61468.
+## 👨‍💻 Desenvolvedores
 
-### [Projeto Figma](https://www.figma.com/file/NH9yuhmmDSAIfjauNKSVSH/Vet-App-Design?type=design&node-id=0%3A1&mode=design&t=U2OGhgesFiR4UhFQ-1)
+- Allan Clementino - a61467  
+- Eduardo Cavazin - m319727  
+- João Santos - a61468
+
+## 🎨 Protótipo
+
+O protótipo do aplicativo pode ser acessado no [Figma](https://www.figma.com/design/NH9yuhmmDSAIfjauNKSVSH/Vet-App-Design?node-id=0-1&t=zweqjHYWcVnFP7TK-1).
+
+## 🚀 Tecnologias Utilizadas
+
+- React Native  
+- JavaScript  
+- Expo
