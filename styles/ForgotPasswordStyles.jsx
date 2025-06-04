@@ -1,0 +1,167 @@
+import { StyleSheet } from "react-native";
+
+export const ForgotPasswordStyles = StyleSheet.create({
+  emailTypo: {
+    textAlign: "left",
+    fontFamily: "Roboto-Regular",
+  },
+  fpimageLayout: {
+    height: 350,
+    position: "absolute",
+  },
+  fpimageLayout1: {
+    width: 428,
+    left: 0,
+  },
+  textTypo: {
+    textShadowRadius: 4,
+    textShadowOffset: {
+      width: 0,
+      height: 4,
+    },
+    textShadowColor: "rgba(0, 0, 0, 0.25)",
+    textAlign: "left",
+    color: "#fff",
+    fontFamily: "Poppins-SemiBold",
+    fontWeight: "600",
+    position: "absolute",
+  },
+  esqueceuTypo: {
+    fontFamily: "Poppins-Regular",
+    left: "50%",
+    textAlign: "center",
+    position: "absolute",
+  },
+  barFlexBox: {
+    justifyContent: "center",
+    flexDirection: "row",
+  },
+  notchLayout: {
+    width: 172,
+    overflow: "hidden",
+  },
+  iconLayout: {
+    height: 12,
+    width: 18,
+  },
+  iconSpaceBlock: {
+    marginLeft: 8,
+    overflow: "hidden",
+  },
+  rectangle: {
+    borderRadius: 50,
+    backgroundColor: "#50808e",
+    left: 0,
+    top: 0,
+    height: 70,
+    width: 290,
+    position: "absolute",
+  },
+  button: {
+    top: 17,
+    left: 49,
+    textAlign: "center",
+    color: "#fff",
+    fontFamily: "Poppins-SemiBold",
+    fontWeight: "600",
+    fontSize: 24,
+    position: "absolute",
+  },
+  comear: {
+    top: 779,
+    left: 69,
+    height: 70,
+    width: 290,
+    position: "absolute",
+  },
+  placeholder: {
+    fontSize: 16,
+    color: "#232323",
+    zIndex: 0,
+  },
+  email: {
+    fontSize: 12,
+    color: "#80869a",
+  },
+  input: {
+    top: 650,
+    borderStyle: "solid",
+    borderColor: "#e2e2e2",
+    borderWidth: 1,
+    width: 395,
+    paddingHorizontal: 24,
+    paddingVertical: 15,
+    alignItems: "center",
+    flexDirection: "row",
+    left: 16,
+    position: "absolute",
+    borderRadius: 30,
+  },
+  fpimageChild: {
+    left: 39,
+    width: 350,
+    top: 0,
+  },
+  image1Icon: {
+    height: 325,
+    top: 0,
+    position: "absolute",
+    width: 428,
+  },
+  text: {
+    left: 303,
+    fontSize: 22,
+    top: 60,
+  },
+  text1: {
+    top: 46,
+    left: 152,
+    fontSize: 24,
+    textShadowRadius: 4,
+    textShadowOffset: {
+      width: 0,
+      height: 4,
+    },
+    textShadowColor: "rgba(0, 0, 0, 0.25)",
+  },
+  fpimage: {
+    top: 107,
+    width: 428,
+    left: 0,
+  },
+  noSePreocupe: {
+    marginLeft: 60,
+    top: 75,
+    fontSize: 15,
+    letterSpacing: 0.2,
+    lineHeight: 24,
+    fontFamily: "Poppins-Regular",
+    color: "#696969",
+    textAlign: "center",
+    width: 329,
+  },
+  esqueceuSuaSenha: {
+    marginLeft: -147,
+    top: 380,
+    fontSize: 26,
+    letterSpacing: 0.3,
+    color: "#151515",
+    left: "50%",
+    textAlign: "center",
+    fontFamily: "Poppins-SemiBold",
+    fontWeight: "600",
+    position: "absolute",
+  },
+  forgotPassword: {
+    height: 926,
+    overflow: "hidden",
+    width: "100%",
+    flex: 1,
+    backgroundColor: "#fff",
+    borderRadius: 30,
+    justifyContent: "center",
+    alignItems: "center"
+  },
+});
+
+export default ForgotPasswordStyles;
